@@ -1,0 +1,14 @@
+@import "@material/typography/mdc-typography";
+
+.container {
+  padding: 30px;
+}
+
+
+
+
+:global(.mdc-select) {
+  .mdc-slider__track-container {
+    height: 4px;
+  }
+}
